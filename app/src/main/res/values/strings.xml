@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GameSupport</string>
+    <string name="mainMenu_btn_fe">火纹-英雄</string>
+    <string name="mainMenu_btn_fgo">Fate/GrandOrder</string>
+</resources>
